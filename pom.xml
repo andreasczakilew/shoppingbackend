@@ -21,7 +21,15 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
+    <!-- https://mvnrepository.com/artifact/junit/junit-dep -->
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit-dep</artifactId>
+        <version>4.10</version>
+        <scope>test</scope>
+    </dependency>        
     </dependencies>
+
 
     <build>
         <plugins>
